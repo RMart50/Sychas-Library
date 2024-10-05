@@ -1,0 +1,4 @@
+email: heat10x
+pw: Dracov2Julgust^
+un: RMart50
+url address: https://rmart50.github.io/Sychas-Library/
